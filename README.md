@@ -27,8 +27,8 @@ shared/tileset/
 ├── furniture_tileset.tres   ← 家具瓦片集，刷家具用这个
 ├── nav_tileset.tres         ← 导航层用，见下面第 6 步
 └── textures/
-    ├── furnitures/          ← 27 张 48×48 家具贴图，tileset 已配好引用
-    └── room-builder/        ← 房间构建贴图（地板、墙、拱门）
+	├── furnitures/          ← 27 张 48×48 家具贴图，tileset 已配好引用
+	└── room-builder/        ← 房间构建贴图（地板、墙、拱门）
 ```
 
 clone 下来就能直接用，不需要再下载或解压任何东西。
